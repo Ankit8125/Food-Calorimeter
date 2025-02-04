@@ -1,4 +1,4 @@
-# Nutritionist-Gen-AI-Doctor
+# Food Calorimeter
 
 ## Overview
 This Streamlit-based AI application utilizes Google Gemini AI to analyze food images and calculate total calorie intake. Users can upload food images, and the AI will identify food items and estimate their calorie values.
